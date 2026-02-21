@@ -1,0 +1,29 @@
+.title {
+    font-family: 'Georgia', serif;
+    font-size: 64px;
+}
+.title-cap
+{
+        font-size: 35px;
+}
+#quote, #auther {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+.btn-main {
+  background-color: #a62e2e;
+  border-color: #a62e2e;
+  color: #fff;
+}
+
+/* .btn-outline-primary {
+  color: #4c110e;
+  border-color:#4c110e;
+} */
+.btn:hover
+{
+    color:black !important;
+    border:black solid 2px;
+    transition: .5s;
+}
